@@ -1,39 +1,27 @@
+# 👋 Hello, I'm Kunal Aage
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1F5FE,100:1976D2&height=200&section=header&text=Kunal%20Aage&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Specialist&descAlignY=55&descAlign=50" />
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Clean+Code+Enthusiast+%E2%9C%A8)
+
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1976D2&center=true&vCenter=true&width=440&lines=Hey!+I'm+Kunal+Aage+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Expert+%E2%9A%A1;Building+Digital+Experiences+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://github.com/kunalBari5557">
-    <img src="https://img.shields.io/badge/GitHub-kunalBari5557-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="mailto:kunalaage22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kunalaage22%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kunalBari5557&color=blueviolet&style=flat-square" />
-</p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```typescript
 class Developer {
   name: string = "Kunal Aage";
   location: string = "Pune, Maharashtra 📍";
-  company: string = "Dignizant Technologies LLP, Surat";
+  company: string = "SeenIT PTY LTD";
   role: string = "Full-Stack Developer";
   
-  skills: {
-    frontend: string[] = ["React", "Redux", "RemixJS", "React Query"];
-    backend: string[] = ["Node.js", "Express", "MongoDB"];
-    languages: string[] = ["JavaScript", "HTML", "CSS"];
-    strengths: string[] = ["DSA", "Problem Solving", "Clean Code"];
+  skills = {
+    frontend: ["React", "Redux", "RemixJS", "React Query"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    languages: ["JavaScript", "HTML", "CSS"],
+    strengths: ["DSA", "Problem Solving", "Clean Code"]
   };
   
   hobbies: string[] = ["🎵 Music", "🎬 Movies", "♟️ Chess"];
@@ -48,115 +36,93 @@ class Developer {
 }
 
 const kunal = new Developer();
-console.log(kunal.getCurrentFocus()); // Let's build something amazing! 🚀
+console.log(kunal.getCurrentFocus());
+// Let's build something amazing! 🚀
 ```
 
-<br clear="right"/>
-
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
-- 🏢 **Working at:** Dignizant Technologies LLP as Full-Stack Developer
-- 🎓 **Learning:** Advanced React Patterns, Microservices, Cloud Architecture
-- 🤝 **Collaboration:** Open to innovative web projects and open-source
-- 💡 **Interests:** Performance Optimization, Scalable Architecture, UX/UI
-- 📧 **Contact:** kunalaage22@gmail.com
-
----
-
-### 🚀 Tech Stack
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=remix" width="48" height="48" alt="Remix" />
-      <br>Remix
-    </td>
+    <td>🏢</td>
+    <td><strong>Working at:</strong> SeenIT PTY LTD as Full-Stack Developer</td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
+    <td>🎓</td>
+    <td><strong>Learning:</strong> Advanced React Patterns, Microservices, Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><strong>Collaboration:</strong> Open to innovative web projects and open-source</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td><strong>Interests:</strong> Performance Optimization, Scalable Architecture, UX/UI</td>
+  </tr>
+  <tr>
+    <td>📧</td>
+    <td><strong>Contact:</strong> kunalaage22@gmail.com</td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Statistics
+## 🚀 Tech Stack
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kunalBari5557&show_icons=true&count_private=true&hide_border=true&title_color=1976D2&icon_color=1976D2&text_color=c9d1d9&bg_color=0d1117" alt="Kunal Aage github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalBari5557&hide_border=true&stroke=0000&background=0d1117&ring=1976D2&fire=1976D2&currStreakLabel=1976D2" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalBari5557&layout=compact&hide_border=true&title_color=1976D2&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunalBari5557&bg_color=0d1117&color=1976D2&line=1976D2&point=FFFFFF&hide_border=true" />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
 
-### 🏆 Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalBari5557&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalBari5557&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalBari5557&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalBari5557&theme=react&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalBari5557&custom_title=Kunal's%20Contribution%20Graph&bg_color=0D1117&color=1976D2&line=1976D2&point=FFFFFF&area_color=1976D2&title_color=FFFFFF&area=true" alt="contribution graph">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalBari5557&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=00D9FF" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 💼 Experience Highlights
+## 💼 Experience Highlights
 
-<details>
-<summary><b>🔹 Full-Stack Developer @ Dignizant Technologies LLP</b></summary>
-<br>
+<div align="center">
+
+### 🔹 Full-Stack Developer @ SeenIT PTY LTD
+
+</div>
 
 - 🎯 Developing and maintaining full-stack web applications using MERN stack
 - 🚀 Implementing responsive UI/UX designs with React and modern CSS
@@ -164,64 +130,45 @@ console.log(kunal.getCurrentFocus()); // Let's build something amazing! 🚀
 - 🔧 Optimizing application performance and code quality
 - 👥 Collaborating with cross-functional teams in Agile environment
 
-</details>
-
 ---
 
-### 🎨 Featured Projects
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalBari5557&repo=project1&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/kunalBari5557/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalBari5557&repo=project2&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/kunalBari5557/project2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-aage)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kunalaage)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kunalaage.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalaage22@gmail.com)
 
 </div>
 
 ---
 
-### 🤝 Connect With Me
+## 💡 Quote of the Day
 
 <div align="center">
-  <a href="mailto:kunalaage22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </div>
 
 ---
 
-### 💡 Quote of the Day
+## 😄 Fun Fact
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-### 😄 Fun Fact
-
-> **When I first heard about JavaScript and Java, I thought they were the same language!** 
+> **When I first heard about JavaScript and Java, I thought they were the same language!**
 > 
 > Now I know better... they're about as similar as "car" and "carpet"! 🚗 vs 🧶
 
 ---
 
 <div align="center">
-  
+
 ### 💻 "Code is poetry written in logic" 💻
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
-![Snake animation](https://github.com/kunalBari5557/kunalBari5557/blob/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=kunalBari5557&color=00D9FF&style=for-the-badge)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1F5FE,100:1976D2&height=120&section=footer" />
