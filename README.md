@@ -14,7 +14,7 @@
 class Developer {
   name: string = "Kunal Aage";
   location: string = "Pune, Maharashtra 📍";
-  company: string = "SeenIT PTY LTD";
+  company: string = "ApTask";
   role: string = "Full-Stack Developer";
   
   skills = {
