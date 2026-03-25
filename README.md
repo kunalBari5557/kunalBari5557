@@ -47,7 +47,7 @@ console.log(kunal.getCurrentFocus());
 <table>
   <tr>
     <td>🏢</td>
-    <td><strong>Working at:</strong> SeenIT PTY LTD as Full-Stack Developer</td>
+    <td><strong>Working at:</strong> ApTask as Full-Stack Developer</td>
   </tr>
   <tr>
     <td>🎓</td>
