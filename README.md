@@ -120,7 +120,7 @@ console.log(kunal.getCurrentFocus());
 
 <div align="center">
 
-### 🔹 Full-Stack Developer @ SeenIT PTY LTD
+### 🔹 Full-Stack Developer @ ApTask
 
 </div>
 
